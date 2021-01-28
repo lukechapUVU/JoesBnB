@@ -6,4 +6,4 @@ let userName = prompt('What is your name?');
 
 let greeting = `Hello ${userName}, we are glad you're here!`
 
-document.querySelector('#greeting').innerText = greetingLuke;
+document.querySelector('#greeting').innerText = greeting;
